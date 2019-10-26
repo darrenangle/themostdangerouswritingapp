@@ -18,9 +18,9 @@
         outline: none;
         background: transparent;
         line-height: 1.65;
-        font-family: Merriweather;
+        font-family: "Sorts Mill Goudy";
         caret-color: red;
-        font-size: 14pt;
+        font-size: 18pt;
         resize: none;
         transition: all .1s linear;
         &::selection
@@ -47,7 +47,7 @@
     .hardcore
         {
         font-size: 300pt;
-        font-family: Merriweather;
+        font-family: Sorts Mill Goudy;
         text-align: center;
         color: $grey;
         width: 100%;
